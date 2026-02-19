@@ -2,7 +2,7 @@
 
 > A professional, modern weather dashboard built with React, Vite, and Tailwind CSS.
 
-![Weatherly Banner](https://images.unsplash.com/photo-1592210454359-9043f067919b?auto=format&fit=crop&w=1200&q=80) 
+![Weatherly Banner]() 
 *(Replace with actual screenshot of your app)*
 
 ## 🚀 Features
